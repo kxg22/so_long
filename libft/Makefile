@@ -24,7 +24,7 @@ SRCS			=	ft_isalnum.c    ft_isprint.c    ft_memcmp.c  	ft_putchar_fd.c   ft_spli
 bonus			=	ft_lstnew.c ft_lstadd_front.c ft_lstsize.c ft_lstlast.c ft_lstadd_back.c 		\
 					ft_lstdelone.c ft_lstiter.c ft_lstclear.c ft_lstmap.c
 
-PRINTF			=	ft_printf.c ft_print_d.c ft_print_p.c ft_print_u.c ft_print_x.c ft_print_X.c 	\
+PRINTF			=	ft_printf.c ft_print_d.c ft_print_p.c ft_print_u.c ft_print_x.c ft_print_majx.c 	\
 					ft_atoi_hex.c ft_print_s.c ft_uitoa.c ft_print_majx.c
 					
 GNL				=	get_next_line.c get_next_line_utils.c
